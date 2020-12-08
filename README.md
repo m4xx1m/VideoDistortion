@@ -1,5 +1,5 @@
 # VideoDistortion
-very slow video distorter
+Very slow video distorter
 
 ## Requirements 
 * python3
